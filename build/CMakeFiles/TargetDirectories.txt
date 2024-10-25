@@ -1,0 +1,3 @@
+/Users/calebalberto/Gzhel/build/CMakeFiles/Gzhel.dir
+/Users/calebalberto/Gzhel/build/CMakeFiles/edit_cache.dir
+/Users/calebalberto/Gzhel/build/CMakeFiles/rebuild_cache.dir
